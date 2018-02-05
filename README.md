@@ -6,12 +6,12 @@ Outlined below is the algorithm we will use for selecting seats in the new offic
 ## Non-negotiable Terms:
 
 + Only the seated labeled in green may be selected
-+ Scott or Paul have a right to veto the result
++ Scott or Paul has a right to veto the result
 
 Additionally, everyone from whom we've received guidelines for this activity has mentioned that
-people who assume control of a window seat should expect to deal with some
-glare: the windows are half-height (not floor to ceiling like our current
-office), and we are *strongly encouraged* to leave the blinds up at all times to 
+people who assume a window seat should expect to deal with some glare:
+the windows are half-height (not floor to ceiling like our current
+office), and we are *strongly encouraged* to leave the blinds up at all times to
 maximize natural light in the space.
 
 ## Negotiable Terms:
@@ -19,7 +19,7 @@ maximize natural light in the space.
 + **Quads:** A block of four desks will be considered "locked" once three of the
   four seats have been selected. This is to ensure that:
   - New hires can be seated close to the people with whom they'll be working most closely
-  - Teammates coming in from out of town will have a room to sit with their teammates
+  - Teammates coming in from out of town will have room to sit with their teammates
 
 + There is no "locking" rule for groups two desks
 
@@ -40,7 +40,8 @@ maximize natural light in the space.
 
     If you're in the office for just a fraction of the day (because you were on
     a customer site, for example), it still counts as a full day in the office.
-  2. **Sorting:** Each bin will be sorted by the tenure (company start date) of the employee, 
+
+  2. **Sorting:** Each bin will be sorted by the tenure (company start date) of the employee,
      with longer tenures leading to priority seating.
 
 + Having determined draft order (stack bins; run through "5 days" bin before
@@ -50,4 +51,4 @@ maximize natural light in the space.
   2. Picker identifies desired seat by its label
   3. Annotation is made on chart that seat is no longer available
   4. New chart is posted to slack
-  5. Next picker is notified; repeat.
+  5. GOTO i
