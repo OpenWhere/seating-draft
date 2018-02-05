@@ -9,7 +9,7 @@ If you want to formally propose a change, open a pull request! The team can vote
 
 ## Non-negotiable Terms:
 
-+ Only the seated labeled in green may be selected
++ Only the seats labeled in green may be selected
 + Scott or Paul has a right to veto the result
 
 Additionally, everyone from whom we've received guidelines for this activity has mentioned that
