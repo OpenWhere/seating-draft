@@ -28,8 +28,8 @@ maximize natural light in the space.
 + There is no "locking" rule for groups two desks
 
 + Draft order will be determined by a two-phase approach:
-  1. **Binning:** Users will be binned by number of days per week they come into the
-     office, *excluding PTO*. There will be 4 bins:
+  1. **Binning:** Users will be binned by number of days _per week_ they do not work from home.
+     Days spent in the office, onsite with the customer, and PTO are not counted against you.
       + 5 Days
       + 4 Days
       + 3 Days
