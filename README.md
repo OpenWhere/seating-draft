@@ -1,6 +1,10 @@
 # BlackSky DC Seating Draft
 Outlined below is the algorithm we will use for selecting seats in the new office space.
 
+You can discuss changes or suggestions by opening a github issue, or by bringing up the topic in the #dc-office-draft slack channel.
+
+If you want to formally propose a change, open a pull request! The team can vote on it in slack and we can merge based on the outcome of the vote.
+
 ![Labeled floorplan](./labeled_seats.png)
 
 ## Non-negotiable Terms:
