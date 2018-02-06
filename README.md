@@ -27,32 +27,12 @@ maximize natural light in the space.
 
 + There is no "locking" rule for groups two desks
 
-+ Draft order will be determined by a two-phase approach:
-  1. **Binning:** Users will be binned by number of days per week they come into the
-     office, *excluding PTO*. There will be 4 bins:
-      + 5 Days
-      + 4 Days
-      + 3 Days
-      + < 3 Days
-    In the case of fractional days, round to the nearest integer.  (So if you work from home one day
-    every two weeks, you're in the office 4.5 days per week, and you fall into
-    the "5 days" bin.  If you work from home 2 days every 3 weeks, you're in the
-    office 4.33 days per week and fall into the "4 days" bin.)
++ Draft order will be determined by tenure at the company, with longest-serving employees getting first pick.
 
-    When calculating days in the office, subtract days worked from home, not
-    days on PTO
-
-    If you're in the office for just a fraction of the day (because you were on
-    a customer site, for example), it still counts as a full day in the office.
-
-  2. **Sorting:** Each bin will be sorted by the tenure (company start date) of the employee,
-     with longer tenures leading to priority seating.
-
-+ Having determined draft order (stack bins; run through "5 days" bin before
-  progressing to "4 days," etc.), the draft will proceed as follows:
-  1. Picker is notified in a public slack channel that it is their turn to
-     make a selection
++ Having determined draft order, the draft will proceed as follows:
+  1. Picker is notified in a public slack channel that it is their turn to make a selection
   2. Picker identifies desired seat by its label
   3. Annotation is made on chart that seat is no longer available
-  4. New chart is posted to slack
-  5. GOTO i
+  4. If the selected seat fills the third seat in a quad, the reamining seat is removed from the chart (quad is now full).
+  5. New chart is posted to slack
+  6. GOTO i
